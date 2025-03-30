@@ -39,8 +39,8 @@ The goal of this project is to develop a React-based dashboard prototype for a G
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/data-query-dashboard.git
-    cd data-query-dashboard
+    git clone https://github.com/your-username/AI-DASH.git
+    cd AI-DASH
     ```
 
 2. Install dependencies:
