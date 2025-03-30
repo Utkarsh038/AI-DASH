@@ -63,7 +63,7 @@ The goal of this project is to develop a React-based dashboard prototype for a G
 
 This project is deployed on [Vercel](https://vercel.com/) (or your preferred platform). You can access the live version of the application at the following URL:
 
-- [Live Demo Link](https://your-app-url.vercel.app)
+- [Live Demo Link](https://ai-dash-six.vercel.app/)
 
 ---
 
